@@ -1,0 +1,12 @@
+.DS_Store
+*.swp
+.sass-cache
+.jekyll-metadata
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+_site/
+.bashrc
+.vimrc
+local_config.yml
+assets/docs/inleiding2.html

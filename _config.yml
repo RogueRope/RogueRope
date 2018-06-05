@@ -1,0 +1,7 @@
+markdown: kramdown
+highlighter: rouge
+gems:  [jekyll-feed]
+url: https://roguerope.github.io
+title: "Rogue Rope"
+description:  "Get your latest info on the Rogue Rope Sessions here."
+author: HansF
