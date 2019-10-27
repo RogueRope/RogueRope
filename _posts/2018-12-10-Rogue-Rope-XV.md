@@ -6,11 +6,20 @@ image: anarchy.jpg
 ---
 
 ![](/assets/img/flyer-12-2018.png)
-The "we are our own people" edition.
-I realized I didn't sent out an e-mail announcement for this one,
-and only posted the event on Fetlife. 
 
-So for the people that missed it. Hope you're available this Saturday. 
+## Nicolette - No Government
+No government is a way of life
+No government means to trust your friends
+I know who I am and you know who you are
+
+If everybody knew what they wanted
+There'd be nothing, nothing left
+People would do what they wanted
+And there'd be no government.
+
+## The "we are our own people" edition.
+
+Theme was based on yet another fall of the Belgian gouvernement.
 
 Some Updates: 
 
