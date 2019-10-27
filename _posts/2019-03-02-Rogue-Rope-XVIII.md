@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rogue Rope XVIII 🐰 Easter Edition
+title: Rogue Rope XVIII - Easter Edition🐰
 tags: information
 image: easter.png
 ---

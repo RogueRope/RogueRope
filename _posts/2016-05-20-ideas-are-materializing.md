@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ideas are materializing
+title: Ideas are materializing.
 tags: music,information,RR#02
 image: ideas.jpg
 ---
