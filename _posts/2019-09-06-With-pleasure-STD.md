@@ -28,6 +28,6 @@ Don't worry, cool lights and suspension points will be provided.
 
 ## Next steps:
 * Mark your calendar.
-* Wait for the next mail where all *definitive* info will be provided.
+* Wait for the next mail where all *definitive* info will be provided. If you haven't yet, click on the 'receive updates'-link.
 * Check the [site of the festival](https://www.vooruit.be/nl/agenda/themas/38/With_Pleasure/) , not much info yet, but that will change in the coming weeks.
 * Stay Kinky. :-)
