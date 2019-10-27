@@ -2,9 +2,9 @@
 layout: post
 title: Documentation RR#03
 tags: music,information,RR#03,files
+image: docu.png
 ---
 
-# {{ page.title }}
 
 As promised, [the presentation](https://roguerope.github.io/assets/docs/inleiding.html) and [Spotify list](https://open.spotify.com/user/roguerope/playlist/10fPreFzDRgNHPQT9AllqT).
 

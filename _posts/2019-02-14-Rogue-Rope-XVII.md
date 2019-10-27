@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Rogue Rope XVII
+title: Rogue Rope XVII - Hot, so hot.
 tags: information
+image: hotsun.jpg
 ---
-# {{ page.title }}
-![](../../../../../images/flyer-02-2019.png)
+![](/assets/img/flyer-02-2019.png)
 Is it spring or global warming? Or both?  Anyway, I'm walking on sunshine lately. 
 
 The writer in me is already on holiday, so here's the quick'n dirty.

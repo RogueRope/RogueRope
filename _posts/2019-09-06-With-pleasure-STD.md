@@ -2,9 +2,9 @@
 layout: post
 title: Rogue Rope goes Vooruit.
 tags: information
+thumb: https://i.imgur.com/FsxqVEv.png
+image: vooruit.jpg
 ---
-# {{ page.title }} 
-![](https://i.imgur.com/FsxqVEv.png)
 It's been a while, no worries, we're still alive. After the [bondage picnic](https://fetlife.com/users/1481316/pictures/83352492), destiny has us taking stuff even more public. This time we even have consent of the proprietors of the space we're taking, hmm, we must be getting old.
 
 People have heard me say, "_Let's call it art, you can get away with much more if you call it art._", ironically, and to my surprise, this strategy is working out.
@@ -13,7 +13,7 @@ People have heard me say, "_Let's call it art, you can get away with much more i
 
 From [the website](https://www.vooruit.be/en/agenda/themas/38/With_Pleasure/) :
 
-> _"De Vooruit (https://www.vooruit.be/nl/home/) is giving guest curator Eva Neklyaeva (https://www.vooruit.be/en/overig/Eva%20Neklyaeva)  free rein. She’ll be inviting everybody to come and explore the complexity of contemporary sexual expression together, at the intersection of performance and visual art, feminist porn, sex-related podcasts, BDSM, the latest sex tech, role play and sex-positive education. To imagine a world where consensual sexual pleasure is a human right._"
+> _"[De Vooruit](https://www.vooruit.be/nl/home/) is giving guest curator [Eva Neklyaeva](https://www.vooruit.be/en/overig/Eva%20Neklyaeva) free rein. She’ll be inviting everybody to come and explore the complexity of contemporary sexual expression together, at the intersection of performance and visual art, feminist porn, sex-related podcasts, BDSM, the latest sex tech, role play and sex-positive education. To imagine a world where consensual sexual pleasure is a human right._"
 
 ## Ok, so what does this mean for me?
 

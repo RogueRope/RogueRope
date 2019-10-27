@@ -1,0 +1,21 @@
+---
+layout: misc
+title: Contact
+---
+
+<form action="https://formspree.io/fraiponts@gmail.com"
+      method="POST">
+	<h3>Name:</h3>
+    <input type="text" name="name">
+	<h3>Mail:</h3>
+    <input type="email" name="_replyto">
+	
+	<h3>Your Message:</h3>
+    <textarea name="h" cols="60" rows="10"></textarea>
+    <input type="submit" value="Send"  class="contactformbutton"/>
+	<input type="hidden" name="_next" value="contact/thanks.html"/>
+	<input type="text" name="_gotcha" style="display:none" />
+    
+    <br />
+	<input type="hidden" name="_subject" value="Contactform Rogue Rope" />
+</form>
