@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rogue Rope XV - We are our own people
+title: Rogue Rope XV - We are our own people!
 tags: information
 image: anarchy.jpg
 ---
