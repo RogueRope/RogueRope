@@ -2,6 +2,8 @@
 layout: post
 title: Great party!
 tags: music,information,RR#02
+
+image: first.jpg
 ---
 
 # {{ page.title }}

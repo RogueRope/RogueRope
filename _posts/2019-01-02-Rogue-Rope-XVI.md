@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Rogue Rope XVI
+title: Rogue Rope XVI - Happy new year!
 tags: information
+image: after.jpg
 ---
-# {{ page.title }}
 
-![](../../../../../images/flyer-01-2019.png)
+![](/assets/img/flyer-01-2019.png)
 Happy new year, my dear scoundrels!
 
 I'm sure we've all put "do more rope" on the list for 2019. Alas, this month we're processing our hangovers, but from Feb we're back! 

@@ -2,9 +2,9 @@
 layout: post
 title: Spotify playlist is done.
 tags: music,information,RR#02
+image: ltbg.jpg
 ---
 
-# {{ page.title }}
 
 Shake your **booty**,  
 empty your *mind*,  

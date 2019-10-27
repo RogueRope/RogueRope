@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Rogue Rope XV
+title: Rogue Rope XV - We are our own people
 tags: information
+image: anarchy.jpg
 ---
-# {{ page.title }}
 
-![](../../../../../images/flyer-12-2018.png)
+![](/assets/img/flyer-12-2018.png)
 The "we are our own people" edition.
 I realized I didn't sent out an e-mail announcement for this one,
 and only posted the event on Fetlife. 

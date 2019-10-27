@@ -2,6 +2,7 @@
 layout: post
 title: All music so far.
 tags: music,information,RR#02
+image: spotify.jpg
 ---
 # {{ page.title }}
 Here is the Spotify playlist of all sessions so far. 

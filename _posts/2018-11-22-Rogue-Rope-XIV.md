@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Rogue Rope XIV.
+title: Rogue Rope XIV -  A new home.
 tags: information
+image: newhome.jpg
 ---
-# {{ page.title }}
 
-![](../../../../../images/flyer-11-2018.png)
+![](/assets/img/flyer-11-2018.png)
 We've found a new home for 'the cold season'.
-
-
 
 ## What's the plan?
 

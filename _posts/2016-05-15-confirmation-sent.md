@@ -2,6 +2,7 @@
 layout: post
 title: Last info mail was sent!
 tags: promo,information,RR#02
+image: newsletter.jpg
 ---
 
 # {{ page.title }}

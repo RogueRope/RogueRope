@@ -1,27 +1,4 @@
 ---
-layout: default
-title: Rogue Rope
+layout: home
+title: Home
 ---
-
-<div id="home">
-
-    <h2>Blog Posts</h2>
-    <ul class="posts">
-        {% for post in site.posts %}
-        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-        {% endfor %}
-    </ul>
-
-    <h2>Stay Informed</h2>
-    <ul class="posts">
-        <li><a href="list/">Hop on the mailinglist!</a>
-            <br/>Events will be announced on the list first. </li>
-    </ul>
-
-
-    <h2>Contact</h2>
-	
-	<ul class="posts">
-		<li>Use the <a href="/contact">contact form</a>, <a href="https://wa.me/32476870515">use whatsapp</a> or find me on <a href="https://fetlife.com/conversations/new?with=1481316">that other site</a>.</li>
-	</ul> 
-</div>
