@@ -5,7 +5,7 @@ title: Get Invited
 
 Interested? Want to become part of the action?
 
-Submit your email and optionally share your Fetlife name, and you will be first to recieve updates on future events. 
+Submit your email and optionally share your Fetlife name, and you will be first to receive updates on future events. 
 
 
 <!-- Begin Mailchimp Signup Form -->
