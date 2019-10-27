@@ -6,7 +6,6 @@ tags: music,information,RR#02
 image: first.jpg
 ---
 
-# {{ page.title }}
 
 We were happy to welcome 17 people. We've missed some old friends *(sorry you couldn't make it)* and made some new ones (**yeey!**).
 
@@ -28,4 +27,4 @@ Will give you an update very soon.
 
 ## Comments
 
-Read [other people's feedback](http://https://fetlife.com/users/1481316/posts/3776639).
+Read [other people's feedback](https://fetlife.com/users/1481316/posts/3776639).

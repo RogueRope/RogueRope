@@ -4,8 +4,6 @@ title: Last info mail was sent!
 tags: promo,information,RR#02
 image: newsletter.jpg
 ---
-
-# {{ page.title }}
 So if you got one, see you Saturday.
 
 ![logo rogue rope sessions, white on black background](http://i.imgur.com/fmF8kyh.png)

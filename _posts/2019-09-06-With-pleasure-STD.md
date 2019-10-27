@@ -5,7 +5,6 @@ tags: information
 thumb: https://i.imgur.com/FsxqVEv.png
 image: vooruit.jpg
 ---
-# {{ page.title }} 
 It's been a while, no worries, we're still alive. After the [bondage picnic](https://fetlife.com/users/1481316/pictures/83352492), destiny has us taking stuff even more public. This time we even have consent of the proprietors of the space we're taking, hmm, we must be getting old.
 
 People have heard me say, "_Let's call it art, you can get away with much more if you call it art._", ironically, and to my surprise, this strategy is working out.

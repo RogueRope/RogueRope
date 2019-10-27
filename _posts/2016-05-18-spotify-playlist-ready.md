@@ -4,8 +4,6 @@ title: Spotify playlist is done.
 tags: music,information,RR#02
 image: ltbg.jpg
 ---
-
-
 Shake your **booty**,  
 empty your *mind*,  
 pull the ropes **tightly**  

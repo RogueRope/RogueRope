@@ -4,7 +4,6 @@ title: All music so far.
 tags: music,information,RR#02
 image: spotify.jpg
 ---
-# {{ page.title }}
 Here is the Spotify playlist of all sessions so far. 
 
 <iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aroguerope%3Aplaylist%3A44ripyDmgpu4pdxKtP9zDE" width="100%" height="380" frameborder="0" allowtransparency="true"></iframe>
