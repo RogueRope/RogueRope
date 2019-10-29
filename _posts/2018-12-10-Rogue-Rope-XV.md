@@ -47,7 +47,7 @@ So come on birdies, show us your feathers. Btw naked is still fine.
 
 Some dudes might think this only applies to the dudettes, but they would be sadly mistaken.
 
-So what does "make an effort" mean?
+## So what does "make an effort" mean?
 
 I really have no idea, I cannot capture this in a list of materials like some other event. I leave it up to you to help shape this concept, and to come and show us (spoiler: cargo pants are disqualified).
 
