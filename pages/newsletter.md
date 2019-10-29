@@ -3,9 +3,11 @@ layout: misc
 title: Get Invited
 ---
 
-Interested? Want to become part of the action?
+Interested? Want to get a piece of the action?
 
-Submit your email and optionally share your Fetlife name, and you will be first to receive updates on future events. 
+Enter your email and optionally share your Fetlife name, and you will be first to receive updates on future events.
+
+Get in the queue before anyone else does. Front row!
 
 
 <!-- Begin Mailchimp Signup Form -->
