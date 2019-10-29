@@ -4,13 +4,11 @@ tags: music,information,RR#02
 title: Rules for photography.
 published: false
 --- 
-# {{ page.title }}
-
 So in the spirit of experimentation photography is specifically allowed on Rogue Rope. This is until somebody does something that makes me revise this policy. So see it as a shared responsibility to make this happen in a good atmosphere.
 
 So, long story short, you can take pictures if: 
 
-- You get **asked** by people to take a picture. 
+- You **don't ask** by people to take a picture. 
 - There's no one in the background.  
 
 *Also*
