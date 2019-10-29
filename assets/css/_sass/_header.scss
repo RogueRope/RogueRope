@@ -6,6 +6,10 @@
   box-shadow: 0 5px 6px -6px #bbb;
   z-index: 100;
 }
+.site-header img{
+  position: relative; 
+  float: left;
+}
 @media (max-width: $container-width) {
   .site-header {
       min-height: 56px;
