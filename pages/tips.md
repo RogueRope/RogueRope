@@ -3,8 +3,6 @@ layout: misc
 title: Tips
 ---
 
-Bijhorende afbeelding kan hier genomen worden: 
-https://www.dropbox.com/sh/1an3u5gsvh99m07/AAA1mo-AUJLiQzDbsLNRBewba?dl=0
 
 
 # Bondage, a different kind of connection.
