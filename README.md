@@ -1,6 +1,6 @@
 # Rogue Rope Website
 
-Visit the site at https://roguerope.tk/
+Visit the site on https://roguerope.tk/
 
 Feel free to make pull requests.
 
