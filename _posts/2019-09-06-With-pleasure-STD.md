@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rogue Rope goes Vooruit!
+title: Rogue Rope goes Vooruit.
 tags: information
 thumb: https://i.imgur.com/FsxqVEv.png
 image: vooruit.jpg
