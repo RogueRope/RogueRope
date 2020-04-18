@@ -11,12 +11,16 @@ title: Contact
 >
   <label>
     Your email:
+  <br />
     <input type="text" name="_replyto">
   </label>
+  <br />
   <label>
     Your message:
+  <br />
     <textarea name="message"></textarea>
   </label>
+  <br />
 
   <!-- your other form fields go here -->
 
