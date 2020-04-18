@@ -21,6 +21,3 @@ author:              "HansF"
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 feed:
   path: /pages/feed.xml
-
-compress_images:
-  images_path: "optimized/img/**/*.{gif,png,jpg,jpeg,svg}"

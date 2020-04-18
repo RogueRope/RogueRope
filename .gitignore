@@ -3,4 +3,4 @@ Gemfile.lock
 .sass-cache
 .jekyll-metadata
 .DS_Store
-optimized
+_compress_images_cache.yml
