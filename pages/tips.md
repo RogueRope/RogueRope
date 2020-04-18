@@ -38,7 +38,7 @@ En vooral, kom eens langs in de bondage lounge in de Danszaal waar je nog meer v
 
 ## Begeleiding: 
 * House Of Lupin: https://houseoflupin.be/
-* RogueRope: https://roguerope.github.io/
+* RogueRope: https://rogueRope.be/
 
 
 
