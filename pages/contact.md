@@ -21,6 +21,7 @@ title: Contact
     <textarea name="message"  rows="4" cols="50"></textarea>
   </label>
   <br />
+<input type="text" name="_gotcha" style="display:none" />
 
   <!-- your other form fields go here -->
 
