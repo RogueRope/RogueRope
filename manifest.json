@@ -1,0 +1,8 @@
+{
+    "name": "Rogue Rope",
+    "description": "Blog and updates for rogue rope.",
+    "icons": [{
+      "src": "assets/ico/android-icon-192x192.png",
+      "sizes": "192x192"
+    }]
+  }
