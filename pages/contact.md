@@ -24,5 +24,5 @@ title: Contact
 
   <!-- your other form fields go here -->
 
-  <button type="submit"  style="height:80px;width:120px">Send</button>
+  <button type="submit"  style="height:35px;width:120px">Send</button>
 </form>
