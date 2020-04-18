@@ -2,8 +2,7 @@
 
 # jekyll-paginate configuration
 paginate:            10
-site:
-  url:                 https://roguerope.be
+url:                 https://roguerope.be/
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
