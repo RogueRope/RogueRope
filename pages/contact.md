@@ -12,17 +12,17 @@ title: Contact
   <label>
     Your email:
   <br />
-    <input type="text" name="_replyto">
+    <input type="text"  size="50" name="_replyto">
   </label>
   <br />
   <label>
     Your message:
   <br />
-    <textarea name="message"></textarea>
+    <textarea name="message"  rows="4" cols="50"></textarea>
   </label>
   <br />
 
   <!-- your other form fields go here -->
 
-  <button type="submit">Send</button>
+  <button type="submit"  style="height:80px;width:120px">Send</button>
 </form>
