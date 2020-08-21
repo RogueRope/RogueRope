@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Rope Camp Over...
+title: Rope Camp Is Over...
 tags: information
 image: ropecamp.png
 ---
 # All good things must come to an end...
+
+![](https://i.imgur.com/sUqo7Ui.png)
 
 ## Quick summary for the peeps that didn't make it:
 
@@ -18,6 +20,8 @@ image: ropecamp.png
 * Weather was good, only one storm.
 * The feedback received  was unanimously positive.
 
+![](https://i.imgur.com/AoaYn3o.png)
+
 ## My personal observations.
 People connected well, of course humans tend to gravitate to their cliques but there was plenty interaction between the different groups.
  
@@ -26,6 +30,8 @@ The volunteering went good in the sense that things got done, but we should prov
 It was a lot of work and learning for me, but I've seen plenty of happy faces which kept me going. I'm totally inspired for next time(2021?).
  
 At one point a party tent provided by a visitor was killed by a storm. Ligatio set up a fundraiser and the visitors collected enough money to replace it. It was wonderful and very heart warming to see the community come together in such a way.
+
+![](https://i.imgur.com/nHVaka7.png)
 
 ## Personal Thanks
 It feels silly to start naming names, since so many of you contributed to co-creating this event...
