@@ -2,7 +2,7 @@
 layout: post
 title: Rope Camp Over...
 tags: information
-image: ropecamp.jpg
+image: ropecamp.png
 ---
 # All good things must come to an end...
 
