@@ -30,7 +30,7 @@ Dit werkt.
 
 #De rol van spanning:
 Dit werkt niet.
-![](http://orig03.deviantart.net/bb86/f/2007/078/7/f/the_tin_can_phone_by_saikopathiccow.png)
+![](https://orig03.deviantart.net/bb86/f/2007/078/7/f/the_tin_can_phone_by_saikopathiccow.png)
 
 ---
 ## Metaforisch: Bondage is zoals taal.
