@@ -9,7 +9,7 @@ image: first.jpg
 
 We were happy to welcome 17 people. We've missed some old friends *(sorry you couldn't make it)* and made some new ones (**yeey!**).
 
-![success kid](http://i.imgur.com/x4Umx5f.jpg) 
+![success kid](https://i.imgur.com/x4Umx5f.jpg) 
 
 The vibe was good, a calm atmosphere, but filled with energy. I'd like to thank all visitors for their presence and participation.
 

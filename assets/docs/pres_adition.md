@@ -9,16 +9,16 @@ class: center, middle, inverse
 layout: false
 class: center, top
 ## Communicatie, basic schema.
-![](http://i.imgur.com/apJYqUA.png)
+![](https://i.imgur.com/apJYqUA.png)
 
 ---
-![](http://i.imgur.com/txfOSzH.png)
+![](https://i.imgur.com/txfOSzH.png)
 [Wikipedia](https://en.wikipedia.org/wiki/Haptic_communication)
 
 ---
 class: center, middle
 ## Afsluiter
-![](http://i.imgur.com/8Wef7Dd.png)
+![](https://i.imgur.com/8Wef7Dd.png)
 **Vraag** : Wat is de implicatie van dit schema?
 
 ---

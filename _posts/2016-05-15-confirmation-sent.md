@@ -6,7 +6,7 @@ image: newsletter.jpg
 ---
 So if you got one, see you Saturday.
 
-![logo rogue rope sessions, white on black background](http://i.imgur.com/fmF8kyh.png)
+![logo rogue rope sessions, white on black background](https://i.imgur.com/fmF8kyh.png)
 
 **Time:** 21st of May, Starts at 20.00h
 
@@ -18,7 +18,7 @@ If you need an elaborate rule set to follow these basic commands, you might not 
 
 *Do try to excel in openness, friendliness, generosity and empathy.*
 
-![foto of suspension](http://i.imgur.com/nebz8cv.png)
+![foto of suspension](https://i.imgur.com/nebz8cv.png)
 
 **Payment/admission:** [Pay what you want](https://en.wikipedia.org/wiki/Pay_what_you_want)
 I don't feel the need set one price for everyone to pay, so I'm leaving this up to you. Organizing this event takes some time (planning, administration, lots of cleanup before and after) and some money (snacks, heating, drinks).
