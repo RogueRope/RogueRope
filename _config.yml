@@ -13,6 +13,13 @@ sass:
   sass_dir: assets/css
   style: :nested
 
+# img optim
+imageoptim:
+  pngout: false
+  svgo: false
+  verbose: false
+
+
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Rogue Rope"
 description:	       "Rope events in Ghent, Belgium"
