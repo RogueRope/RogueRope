@@ -112,6 +112,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  image_optim
+  image_optim_pack
   jekyll
   jekyll-compress-images
   jekyll-feed (~> 0.6)
