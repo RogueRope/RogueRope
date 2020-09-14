@@ -18,7 +18,7 @@ If you need an elaborate rule set to follow these basic commands, you might not 
 
 *Do try to excel in openness, friendliness, generosity and empathy.*
 
-![foto of suspension](https://i.imgur.com/nebz8cv.png)
+![foto of suspension]({{site.url}}/assets/img/nebz8cv.png)
 
 **Payment/admission:** [Pay what you want](https://en.wikipedia.org/wiki/Pay_what_you_want)
 I don't feel the need set one price for everyone to pay, so I'm leaving this up to you. Organizing this event takes some time (planning, administration, lots of cleanup before and after) and some money (snacks, heating, drinks).

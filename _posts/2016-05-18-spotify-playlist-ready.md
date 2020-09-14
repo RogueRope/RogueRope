@@ -18,4 +18,4 @@ Starts of chill, but the mood changes an hour in or so.
   
 Let the beast go! :-) 
 
-![Dehaene op een robot stier.](https://i.imgur.com/yWFQa18.jpg)
+![Dehaene op een robot stier.]({{site.url}}/assets/img/yWFQa18.jpg)

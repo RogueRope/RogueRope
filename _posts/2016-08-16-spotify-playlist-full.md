@@ -15,4 +15,4 @@ Around 20 hours of music, in no specific order, so hit shuffle and don't do anyt
 
 **Enjoy!**
 
-![Picture of a girl with headphones](https://i.imgur.com/PiEcemu.png)
+![Picture of a girl with headphones]({{site.url}}/assets/img/PiEcemu.png)
