@@ -29,6 +29,5 @@ gem 'jekyll-sitemap'
 gem 'jekyll-seo-tag'
 gem 'sassc'
 gem 'jekyll-compress-images'
-gem 'jekyll-press'
 gem "image_optim"
 gem "image_optim_pack"

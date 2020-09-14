@@ -7,23 +7,19 @@ url:                 https://roguerope.be
 markdown:            kramdown
 highlighter:         rouge
 permalink:           none
-plugins:             [jekyll-paginate, jekyll-compress-images, jekyll-press, jekyll-sitemap, jekyll-feed, jekyll-seo-tag, jekyll-compress-images]
+plugins:             [jekyll-paginate, jekyll-compress-images, jekyll-sitemap, jekyll-feed, jekyll-seo-tag, jekyll-compress-images]
 
 sass:
   sass_dir: assets/css
   style: :nested
 
 # img optim
-imageoptim:
+image_optim:
   pngout: false
   svgo: false
   verbose: false
 
-jekyll-press:
-  exclude: 'atom.xml' # Exclude files from processing - file name, glob pattern or array of file names and glob patterns
-  js_options: {}      # js minifier options
-  css_options: {}     # css minifier options
-  html_options: {}    # html minifier options
+
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Rogue Rope"
