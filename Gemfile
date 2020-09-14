@@ -20,7 +20,6 @@ gem "minima"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
-  gem 'jekyll-gzip'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -32,3 +31,4 @@ gem 'sassc'
 gem 'jekyll-compress-images'
 gem "image_optim"
 gem "image_optim_pack"
+gem 'jekyll-gzip'
