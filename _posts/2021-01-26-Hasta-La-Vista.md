@@ -13,7 +13,7 @@ At least the French still know how to throw a party, let us commemorate their ef
 ![](/assets/img/rr-2020-1.png)
 
 
-When injustice becomes law, resistance becomes duty.
+## When injustice becomes law, resistance becomes duty.
 
 ![](/assets/img/rr-2020-2.jpg)
 
