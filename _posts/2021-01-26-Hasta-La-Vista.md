@@ -4,8 +4,6 @@ title: Hasta La Vista, 2020!
 tags: information
 image: rennes.jpg
 ---
-# Hasta La Vista, 2020!
-
 Dear Comrades,
 
 I hope this bulletin finds you well. It has been 161 day since the last update from Rogue Rope HQ. We have been enduring the lock-down. Morale is down, but we keep fighting for the cause.
