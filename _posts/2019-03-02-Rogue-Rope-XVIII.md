@@ -2,7 +2,7 @@
 layout: post
 title: Rogue Rope XVIII - Easter Edition🐰
 tags: information
-image: easter.png
+image: easter.jpg
 ---
 
 * 🥚 Will we search for eggs in dark places? Uhm, not sure...
