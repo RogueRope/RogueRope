@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rope Camp Is Over...
+title: Rope Camp 2020 Is Over...
 tags: information
 image: ropecamp.jpg
 ---
