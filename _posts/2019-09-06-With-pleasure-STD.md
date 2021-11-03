@@ -11,7 +11,7 @@ People have heard me say, "_Let's call it art, you can get away with much more i
 
 ## What's all this about?
 
-From [the website](https://www.vooruit.be/en/agenda/themas/38/With_Pleasure/) :
+From [the website](https://www.vooruit.be/nl/agenda/themas/95/WITH_PLEASURE/) :
 
 > _"[De Vooruit](https://www.vooruit.be/nl/home/) is giving guest curator [Eva Neklyaeva](https://www.vooruit.be/en/overig/Eva%20Neklyaeva) free rein. She’ll be inviting everybody to come and explore the complexity of contemporary sexual expression together, at the intersection of performance and visual art, feminist porn, sex-related podcasts, BDSM, the latest sex tech, role play and sex-positive education. To imagine a world where consensual sexual pleasure is a human right._"
 
@@ -29,5 +29,5 @@ Don't worry, cool lights and suspension points will be provided.
 ## Next steps:
 * Mark your calendar.
 * Wait for the next mail where all *definitive* info will be provided. If you haven't yet, click on the 'receive updates'-link.
-* Check the [site of the festival](https://www.vooruit.be/nl/agenda/themas/38/With_Pleasure/) , not much info yet, but that will change in the coming weeks.
+* Check the [site of the festival](https://www.vooruit.be/nl/agenda/2431/%27Bondage_a_different_kind_of_connection%27/House_of_Lupin_Rogue_Rope) , not much info yet, but that will change in the coming weeks.
 * Stay Kinky. :-)
