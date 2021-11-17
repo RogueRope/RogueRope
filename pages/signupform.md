@@ -14,7 +14,7 @@ Please enter your details to stay informed.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
-<form action="https://github.us13.list-manage.com/subscribe/post?u=6b7b803cf680a3152e48fca06&amp;id=28e57268fb" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="https://roguerope.us13.list-manage.com/subscribe/post?u=6b7b803cf680a3152e48fca06&amp;id=28e57268fb" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<h2>Subscribe</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
@@ -26,6 +26,13 @@ Please enter your details to stay informed.
 <div class="mc-field-group">
 	<label for="mce-FNAME">Fetlife Name </label>
 	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+</div>
+<div class="mc-field-group input-group">
+    <strong>Send me mails about: </strong>
+    <ul><li><input type="checkbox" value="1" name="group[409754][1]" id="mce-group[409754]-409754-0"><label for="mce-group[409754]-409754-0">General Blabla</label></li>
+<li><input type="checkbox" value="2" name="group[409754][2]" id="mce-group[409754]-409754-1"><label for="mce-group[409754]-409754-1">Local Events</label></li>
+<li><input type="checkbox" value="4" name="group[409754][4]" id="mce-group[409754]-409754-2"><label for="mce-group[409754]-409754-2">Larger Events</label></li>
+</ul>
 </div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
