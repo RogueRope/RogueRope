@@ -32,3 +32,4 @@ gem 'jekyll-compress-images'
 gem "image_optim"
 gem "image_optim_pack"
 gem 'jekyll-gzip'
+gem "webrick", "~> 1.7"
