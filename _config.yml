@@ -17,7 +17,7 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Rogue Rope"
-description:	       "Rope events in Ghent, Belgium"
+description:	       "Yoga events in Ghent, Belgium"
 author:              "HansF"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
