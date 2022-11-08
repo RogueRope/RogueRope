@@ -44,7 +44,7 @@ layout: default
       <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}&amp;title={{ page.title }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
     </div>
   </div>
--->
+
   <div class="related">
     <h2>{{ site.data.settings.related_posts }}</h2>
     {% assign listed_posts_urls = page.url | split: ' ' %}
@@ -64,7 +64,7 @@ layout: default
                   <div class="related-title">
                     {{ mypost.title }}
                   </div>
-                  <!--<small>{{ mypost.date | date: "%B %-d, %Y" }}</small>-->
+                  <small>{{ mypost.date | date: "%B %-d, %Y" }}</small>
                 </a>
               </h3>
             </li>
@@ -80,3 +80,4 @@ layout: default
   {% endif %}
 
 </div>
+-->
