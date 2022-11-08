@@ -27,3 +27,6 @@ title: Contact
 
   <button type="submit"  style="height:35px;width:120px">Send</button>
 </form>
+
+<p> Rogue rope is een non-profit initiatief van Hans Fraiponts. </p>
+<p> Emiel-lossystraat 37, 9040 Gent. +32 476 87 05 15 </p>
